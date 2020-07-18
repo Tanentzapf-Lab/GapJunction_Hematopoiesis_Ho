@@ -26,10 +26,10 @@ Open source repository for source code for "A gap junction-mediated calcium sign
 - Following the instructions above, use the provided images in the "dataset_sample" folder of [this](https://github.com/Tanentzapf-Lab/GapJunction_Hematopoiesis_Ho/) repository. 
 - Lower and Upper bounds for the calibration bar were set to 25 and 75 respectively.
 - Anticpated outcomes can be seen in the "dataset_sample_results" folder of [this](https://github.com/Tanentzapf-Lab/GapJunction_Hematopoiesis_Ho/) repository.
-Sample Input:
+- Sample Input:
 ![Baseline Fluorescence Image](/dataset_sample/Baseline.tif)
 ![Pre-Stimulation Fluorescence Image](/dataset_sample/Pre-stimulation.tif)
 ![Post-Stimulation Fluorescence Image](/dataset_sample/Post-stimulation.tif)
-Sample Output:
+- Sample Output:
 ![Pre-Stimulation Difference Image](/dataset_sample_results/Pre-Stimulation_DifferenceImage_25-75.tif)
 ![Post-Stimulation Difference Image](/dataset_sample_results/Post-Stimulation_DifferenceImage_25-75.tif)
